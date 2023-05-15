@@ -1,0 +1,41 @@
+id_base	year	month	cruise	site	genera	species	adults	couples_fact	couples	chicks	abond_tot	main_obs
+1	2017	3	postblanco	surprise	sula	dactylara	78	20	6	6	84	EV
+2	2017	3	postblanco	surprise	sula	leucogaster	193	74	22	22	215	EV
+3	2017	3	postblanco	surprise	sula	sula	4498	5	0	0	4498	EV
+4	2017	3	postblanco	surprise	fregata	sp	390	0			390	EV
+5	2017	3	postblanco	surprise	anous	minutus	538	69	31	31	569	EV
+6	2017	3	postblanco	surprise	anous	stolidus	20	10	6	6	26	EV
+7	2017	9	tara	surprise	sula	sula	9396	6906	4698	4698	14095	KB
+8	2017	9	tara	surprise	sula	dactylara	15	0	0	0	15	KB
+9	2017	9	tara	surprise	sula	leucogaster	55	0	0	0	55	KB
+10	2017	9	tara	surprise	fregata	sp	3173	6804	1586	1586	4759	KB
+11	2017	9	tara	surprise	anous	minutus	9050	4525	4525	442	9492	KB
+12	2017	9	tara	surprise	anous	stolidus	62	0	0	0	62	KB
+13	2017	9	tara	surprise	sterna	sumatrana	90				90	KB
+14	2017	9	tara	surprise	sterna	bergii	12				12	KB
+15	2017	9	tara	surprise	onychoprion	fuscatus	4				4	KB
+16	2017	9	tara	surprise	sternula	nereis	1				1	KB
+17	2017	9	tara	surprise	gygis	alba	1				1	KB
+18	2017	9	tara	surprise	phaeton	lepturus	2				2	KB
+19	2019	7	iguane	surprise	sula	sula	11096	7745	5548	4675	15771	MT
+20	2019	7	iguane	surprise	sula	leucogaster	1160	812	580	493	1653	MT
+21	2019	7	iguane	surprise	sula	dactylara	58	33	29	14	72	MT
+22	2019	7	iguane	surprise	fregata	ariel	1428	2256	714	469	1897	MT
+23	2019	7	iguane	surprise	fregata	fregata	1274	2375	637	528	1802	MT
+24	2019	7	iguane	surprise	anous	stolidus	1992	996	996	506	2498	MT
+25	2019	7	iguane	surprise	anous	minutus	9302	4650	4651	1004	10306	MT
+26	2021	2	coris1	surprise	onychoprion	anaethetus	4	2	2	0	4	MT
+27	2021	2	coris2	surprise	fregata	ariel	18	39	9	9	27	MT
+28	2021	2	coris3	surprise	sula	dactylatra	20	12	10	7	27	MT
+29	2021	2	coris4	surprise	sula	leucogaster	808	443	404	60	868	MT
+30	2021	2	coris5	surprise	fregata	minor	140	294	70	68	208	MT
+31	2021	2	coris6	surprise	anous	minutus	10496	5248	5248	267	10763	MT
+32	2021	2	coris7	surprise	anous	stolidus	196	98	98	42	238	MT
+33	2021	2	coris8	surprise	sula	sula	620	368	310	66	686	MT
+34	2021	7	x	surprise	fregata	ariel	0	4169	1152	0	0	EV+AR+TB
+35	2021	7	x	surprise	sula	dactylatra	0	56	48	0	0	EV+AR+TB
+36	2021	7	x	surprise	sula	leucogaster	0	298	218	0	0	EV+AR+TB
+37	2021	7	x	surprise	fregata	minor	0	935	329	0	0	EV+AR+TB
+38	2021	7	x	surprise	anous	minutus	0	1468	1468	0	0	EV+AR+TB
+39	2021	7	x	surprise	anous	stolidus	0	713	714	0	0	EV+AR+TB
+40	2021	7	x	surprise	sula	sula	0	4712	3256	0	0	EV+AR+TB
